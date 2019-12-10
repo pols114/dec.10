@@ -12,11 +12,11 @@ a {
 a:hover {
   opacity: 0.5;
 }
-.section1 {
+.begining-title1 {
   text-align: center;
   color: green;
 }
-.apraksts {
+.apraksts1 {
   text-align: center;
   margin-top: 5%;
 }
@@ -25,4 +25,19 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+.begining-title2 {
+  text-align: center;
+  color: purple;
+  margin-top: 5%;
+}
+.skrundas-muiža {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.apraksts2 {
+  text-align: center;
+  margin-top: 5%;
 }
