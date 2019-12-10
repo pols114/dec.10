@@ -1,0 +1,28 @@
+nav ul li {
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+  color: black;
+  margin-left: 10px;
+}
+.active {
+  font-weight: bold;
+}
+a:hover {
+  opacity: 0.5;
+}
+.section1 {
+  text-align: center;
+  color: green;
+}
+.apraksts {
+  text-align: center;
+  margin-top: 5%;
+}
+.skrundas-pulkstenis {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
