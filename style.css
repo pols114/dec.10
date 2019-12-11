@@ -41,3 +41,18 @@ a:hover {
   text-align: center;
   margin-top: 5%;
 }
+.begining-titlec1 {
+  text-align: center;
+  color: red;
+  margin-top: 5%;
+}
+.skrundas-karte {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.sectionc2 {
+  margin-left: 65%;
+  font-weight: bold;
+}
