@@ -4,9 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Skrunda - Contacts</title>
-    <!-- Links uz ārējo css failu -->
     <link rel="stylesheet" href="style.css" />
+    <title>Skrunda - register</title>
   </head>
   <body
     style="background: url(https://scx2.b-cdn.net/gfx/news/hires/2019/4-space.jpg)
@@ -17,24 +16,27 @@
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
-        <li><a href="#">Contacts</a></li>
+        <li><a href="contacts.html">Contacts</a></li>
         <li><a href="login.html">Login</a></li>
-        <li><a href="register.html">Register</a></li>
+        <li><a href="#">Register</a></li>
       </ul>
     </nav>
-    <!-- // Nav -->
-    <section class="sectionc1">
-      <h2 class="begining-titlec1">
-        Kontakti
-      </h2>
-      <img
-        class="skrundas-karte"
-        src="http://www.skrunda.lv/images/news/19773_640x480_skrundas_novads.jpg"
-        alt="Skrundas karte"
-      />
-      <p class="begining-titlec2">
-        Telefons - 29759268 e-pasts - pols114@inbox.lv adrese - Liepājas iela 8
-      </p>
+    <section class="login-container">
+      <form action="#">
+        <label for="email">Username</label>
+        <br />
+        <input type="text" />
+        <br />
+        <label for="email">Email</label>
+        <br />
+        <input type="email" />
+        <br />
+        <label for="email">Password</label>
+        <br />
+        <input type="password" />
+        <br />
+        <button>Register</button>
+      </form>
     </section>
   </body>
 </html>

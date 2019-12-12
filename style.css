@@ -92,3 +92,17 @@ a:hover {
   font-size: 20px;
   color: white;
 }
+.login-container {
+  text-align: center;
+  margin-top: 10%;
+  color: white;
+  font-size: 30px;
+}
+input {
+  margin: 20px;
+  padding: 10px;
+}
+button {
+  background-color: blueviolet;
+  color: white;
+}
