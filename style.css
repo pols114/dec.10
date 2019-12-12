@@ -5,6 +5,8 @@ a {
   text-decoration: none;
   color: black;
   margin-left: 10px;
+  font-size: 20px;
+  color: white;
 }
 .active {
   font-weight: bold;
@@ -14,11 +16,13 @@ a:hover {
 }
 .begining-title1 {
   text-align: center;
-  color: green;
+  color: white;
 }
 .apraksts1 {
   text-align: center;
   margin-top: 5%;
+  font-size: 20px;
+  color: white;
 }
 .skrundas-pulkstenis {
   display: block;
@@ -28,8 +32,8 @@ a:hover {
 }
 .begining-title2 {
   text-align: center;
-  color: purple;
   margin-top: 5%;
+  color: white;
 }
 .skrundas-muiža {
   display: block;
@@ -40,11 +44,13 @@ a:hover {
 .apraksts2 {
   text-align: center;
   margin-top: 5%;
+  font-size: 20px;
+  color: white;
 }
 .begining-titlec1 {
   text-align: center;
-  color: red;
   margin-top: 5%;
+  color: white;
 }
 .skrundas-karte {
   display: block;
@@ -53,6 +59,48 @@ a:hover {
   width: 50%;
 }
 .sectionc2 {
-  margin-left: 65%;
+  margin-left: 60%;
   font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.begining-titlea1 {
+  text-align: center;
+  margin-top: 5%;
+  color: white;
+}
+.begining-titlea3 {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 20px;
+  color: white;
+}
+body,
+html {
+  height: 100%;
+}
+html {
+  background: http://img.fotoblog.ninja/630/281/900.jpg no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.begining-titlea4 {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 20px;
+  color: white;
+}
+.begining-titlea2 {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 20px;
+  color: white;
+}
+.begining-titlea4 {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 20px;
+  color: white;
 }
